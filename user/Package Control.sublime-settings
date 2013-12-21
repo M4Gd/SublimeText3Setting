@@ -2,11 +2,13 @@
 	"installed_packages":
 	[
 		"AdvancedNewFile",
+		"Alignment",						// After install Shift + Command + A to auto-align
 		"All Autocomplete",
 		"AutoFileName",
 		"AutoWidth",
 		"Backbone.js",
-		"Emmet",
+		"DocBlockr",						// Type /** before function, var or class then hit tab
+		"Emmet",						// Zencoding
 		"File Navigator",
 		"Goto Documentation",
 		"HTML5",
