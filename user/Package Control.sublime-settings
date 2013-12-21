@@ -1,0 +1,34 @@
+{
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"All Autocomplete",
+		"AutoFileName",
+		"AutoWidth",
+		"Backbone.js",
+		"Emmet",
+		"File Navigator",
+		"Goto Documentation",
+		"HTML5",
+		"Idiomatic-CSS-Comments-Snippets",
+		"jQuery Snippets pack",
+		"JS Snippets",
+		"Origami",
+		"Package Control",
+		"PHP Completions Kit",
+		"Placeholders",
+		"SASS Snippets",
+		"ScopeHunter",
+		"SCSS",
+		"SCSS Snippets",
+		"SideBarEnhancements",
+		"SmartMarkdown",
+		"SublimeLinter",
+		"Syntax Highlighting for Sass",
+		"Tag",
+		"Theme - Minimal",
+		"ThemeAutomator",
+		"Tomorrow Color Schemes",
+		"WordPress"
+	]
+}
