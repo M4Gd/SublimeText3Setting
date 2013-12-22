@@ -2,20 +2,24 @@
 	"installed_packages":
 	[
 		"AdvancedNewFile",
-		"Alignment",						// After install Shift + Command + A to auto-align
+		"Alignment",
 		"All Autocomplete",
 		"AutoFileName",
 		"AutoWidth",
 		"Backbone.js",
-		"DocBlockr",						// Type /** before function, var or class then hit tab
-		"Emmet",						// Zencoding
+		"CSS Snippets",
+		"DocBlockr",
+		"Emmet",
 		"File Navigator",
 		"Goto Documentation",
+		"HTML Snippets",
 		"HTML5",
 		"Idiomatic-CSS-Comments-Snippets",
+		"JavaScript Snippets",
+		"jQuery",
 		"jQuery Snippets pack",
 		"JS Snippets",
-		"Origami",
+		"Nettuts+ Fetch",
 		"Package Control",
 		"PHP Completions Kit",
 		"Placeholders",
@@ -25,11 +29,11 @@
 		"SCSS Snippets",
 		"SideBarEnhancements",
 		"SmartMarkdown",
+		"Sublime-KnockoutJS-Snippets",
 		"SublimeLinter",
 		"Syntax Highlighting for Sass",
 		"Tag",
 		"Theme - Minimal",
-		"ThemeAutomator",
 		"Tomorrow Color Schemes",
 		"WordPress"
 	]
