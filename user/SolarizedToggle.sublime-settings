@@ -1,0 +1,8 @@
+{
+	"color_scheme_dark": "Packages/Tomorrow Color Schemes/Tomorrow-Night-Eighties.tmTheme",
+	"color_scheme_light": "Packages/Theme - Soda/Brackets (Day).tmTheme",
+	"enable_theme_switching": true,
+	"solarized_toggle_mode": "light",
+	"theme_dark": "Soda Dark 3.sublime-theme",
+	"theme_light": "Soda Minimal Light.sublime-theme"
+}
