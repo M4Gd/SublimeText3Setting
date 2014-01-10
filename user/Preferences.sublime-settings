@@ -1,6 +1,6 @@
 {
-	"bold_folder_labels": true,
-	"color_scheme": "Packages/Theme - Soda/Brackets (Day).tmTheme",
+	"bold_folder_labels": false,
+	"color_scheme": "Packages/User/Brackets (Day) (SL).tmTheme",
 	"font_face": "Droid Sans Mono",
 	"font_options":
 	[
@@ -12,9 +12,7 @@
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
-		"Vintage",
-		"SublimeLinter",
-		"AdvancedNewFile"
+		"Vintage"
 	],
 	"indent_to_bracket": true,
 	"soda_folder_icons": true,
